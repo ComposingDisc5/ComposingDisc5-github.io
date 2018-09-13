@@ -18,21 +18,28 @@ html {
 }
 
 body {
-	background-image: url("http://informationcommunicationtechnology.com/wp-content/uploads/2018/06/Cool-Wallpapers-Hd-999.jpg");
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  background: url("https://images3.alphacoders.com/675/675273.jpg");
+  background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+  font: 18px/1.4 "Lucida Console", Lucida, monospace;
+  color: #73839b;
 }
 
-.container {
+.container {	
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+  color: #5e78a3;
+  border-radius: 20px;
+  opacity: 0.8;
+ 
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: #ce952b;
   font-weight: bold;
 
   line-height: 1.7;
@@ -165,8 +172,8 @@ img {
 
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
+  width:  100px;
+  height: 100px;
   margin-right: 15px;
 
   @include mobile {
@@ -192,7 +199,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: #9e42f4;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -202,7 +209,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: #c953fc;
   font-size: 16px;
 
   @include mobile {
@@ -275,14 +282,13 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: #9e42f4;
 }
 
 footer {
   padding: 20px 0;
   text-align: center;
 }
-
 
 table {
     border-collapse: collapse;
@@ -312,6 +318,13 @@ th {
 	font: "Arial Black", Gadget, sans-serif
    
 }
+
+
+
+
+
+
+
 
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
