@@ -11,7 +11,7 @@ published: true
     <th>Title</th>
     <td>Codecacdemy, isn't as hard as you think</td>
     <th>Date</th>
-    <td>20/09/18</td>
+    <td>03/10/18</td>
   </tr>
 </table>
 
