@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>Codecacdemy, isn't as hard as you think</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>20/09/18</td>
   </tr>
 </table>
@@ -18,11 +18,11 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>Codecademy, python, 35%</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th>Target for this lesson?</th>
     <td>Get working on codecademy</td>
   </tr>
   <tr>
