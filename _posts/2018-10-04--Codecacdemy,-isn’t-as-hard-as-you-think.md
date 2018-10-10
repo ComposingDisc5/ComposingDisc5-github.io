@@ -26,7 +26,7 @@ published: true
     <td>Get working on codecademy</td>
   </tr>
   <tr>
-    <td>Did I reach my target? </td>
+    <th>Did I reach my target? </th>
     <td>Yes i worked on Codecademy and am now on 55%</td>
   </tr>
 </table>
@@ -34,30 +34,30 @@ published: true
 
 <table>
   <tr>
-    <td>How did you use your learning habits this week?</td>
+    <th>How did you use your learning habits this week?</th>
   </tr>
 </table>
 
 
 <table>
   <tr>
-    <td>Persevering</td>
+    <th>Persevering</th>
     <td>I Kept on trying again and again</td>
   </tr>
   <tr>
-    <td>Questioning?</td>
+    <th>Questioning?</th>
     <td>I asked myself what I am doing wrong</td>
   </tr>
   <tr>
-    <td>Independence</td>
+    <th>Independence</th>
     <td>I worked on my own</td>
   </tr>
   <tr>
-    <td>Reflecting</td>
+    <th>Reflecting</th>
     <td>I thought about my previous work to answer harde, more complicated ones</td>
   </tr>
   <tr>
-    <td>Engagement</td>
+    <th>Engagement</th>
     <td></td>
   </tr>
 </table>
@@ -65,13 +65,13 @@ published: true
 
 <table>
   <tr>
-    <td>What could have gone better in your learning?</td>
+    <th>What could have gone better in your learning?</th>
   </tr>
   <tr>
     <td>I could have been more careful so I would not have made the mistakes I did.</td>
   </tr>
   <tr>
-    <td>What changes do you need to make to improve your learning next time?</td>
+    <th>What changes do you need to make to improve your learning next time?</th>
   </tr>
   <tr>
     <td>I should have checked my work when I had finished the question as i was getting many questions wrong first time.</td>
