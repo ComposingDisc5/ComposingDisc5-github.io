@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>Bites and Nibbles</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>01/05/18</td>
   </tr>
 </table>
@@ -18,15 +18,15 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>My repil</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th>Target for this lesson?</th>
     <td>i have no clue what we did</td>
   </tr>
   <tr>
-    <td>Did I reach my target? </td>
+    <th>Did I reach my target? </th>
     <td>yeah.. I think</td>
   </tr>
 </table>
@@ -34,30 +34,30 @@ published: true
 
 <table>
   <tr>
-    <td>How did you use your learning habits this week?</td>
+    <th>How did you use your learning habits this week?</th>
   </tr>
 </table>
 
 
 <table>
   <tr>
-    <td>Persevering</td>
+    <th>Persevering</th>
     <td></td>
   </tr>
   <tr>
-    <td>Questioning?</td>
+    <th>Questioning?</th>
     <td>I asked questions about things I didn't understand in all the things we did, which was mostly talking</td>
   </tr>
   <tr>
-    <td>Independence</td>
+    <th>Independence</th>
     <td></td>
   </tr>
   <tr>
-    <td>Reflecting</td>
+    <th>Reflecting</th>
     <td>I thought about the answers and understood why it was like that.</td>
   </tr>
   <tr>
-    <td>Engagement</td>
+    <th>Engagement</th>
     <td></td>
   </tr>
 </table>
@@ -65,13 +65,13 @@ published: true
 
 <table>
   <tr>
-    <td>What could have gone better in your learning?</td>
+    <th>What could have gone better in your learning?</th>
   </tr>
   <tr>
     <td>I could have have asked clever questions instead of as most of the questions I asked were stupid</td>
   </tr>
   <tr>
-    <td>What changes do you need to make to improve your learning next time?</td>
+    <th>What changes do you need to make to improve your learning next time?</th>
   </tr>
   <tr>
     <td>Ask more clever questions</td>
